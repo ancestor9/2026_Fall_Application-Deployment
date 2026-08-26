@@ -1,4 +1,5 @@
 ### 「소프트웨어 개발 및 배포(DevOps 기초)」
+
 ① Software Build
 
    └─ 컴파일 / 링크 / Runtime / Dependency / Package
@@ -6,6 +7,7 @@
 ② Development Environment
 
    └─ Python venv / Package 관리
+   └─ GitHub Codespaces, Linux
 
 ③ Version Control
 
@@ -17,4 +19,4 @@
 
 ⑤ Container Deployment
 
-   └─ Docker / Image / Container / Dockerfile / n8n / WSL
+   └─ Docker / Image / Container / Dockerfile / n8n / apache airflow / WSL
