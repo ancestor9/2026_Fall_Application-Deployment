@@ -1,3 +1,10 @@
+### 학습 내용
+- git, git desktop 설치, vscode 설치(가상환경)
+- [pandas](https://pandas.pydata.org/docs/getting_started/index.html) 학습 without AI 
+- 데이터분석 시각화, EDA : with AI
+- 「소프트웨어 개발 및 배포(DevOps 기초)」
+  최종 과제 수행
+
 ### 「소프트웨어 개발 및 배포(DevOps 기초)」
 
 ① Software Build : 컴파일 / 링크 / Runtime / Dependency / Package
