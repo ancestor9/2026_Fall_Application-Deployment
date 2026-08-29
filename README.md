@@ -8,6 +8,7 @@
       ⑤ Container Deployment : Docker / Image / Container / Dockerfile / n8n / apache airflow / WSL
   
 - [pandas](https://pandas.pydata.org/docs/getting_started/index.html) 학습 without AI
+- [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Machine Learning](https://github.com/ancestor9/machine-learning/tree/master) 의 Padnas 디렉토리 실습
 - 데이터분석 시각화, EDA : with AI 
 -  기말 최종 과제 수행
