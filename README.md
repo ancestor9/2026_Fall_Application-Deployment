@@ -15,3 +15,13 @@ pip install pandas
 
 ### 전자책
 - [한 권으로 끝내는 판다스 노트](https://wikidocs.net/book/4639)
+
+
+### Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등) & pandas
+| Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
+|-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
+| **Presentation (value, variable)** | `int`, `float`, `string`, `boolean`       | `list`, `tuple`, `dictionary`, `set`           | `ndarray`, `Series`, `DataFrame`                      |
+| **Operation (algebra)**     | expressions                            | operations, mutable operations                 | expressions, `get`, `set`, `reshape`, ...             |
+| **Control flow**            |                                        |                                                | `if`, `for`, `while`                                  |
+| **Use and reuse**           |                                        |                                                | Functions, Standard libraries, Modules and Packages   |
+| **Input and output**        | Standard I/O, File I/O                 |                                                | Standard I/O, File I/O, CSV, Excel                    |
