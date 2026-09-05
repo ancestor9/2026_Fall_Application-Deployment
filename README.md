@@ -7,8 +7,8 @@ pip install pandas
 ```
 
 ### 공공데이터
-- [https://www.wififree.kr/pu/oa/L01.do](https://www.data.go.kr/data/15061057/fileData.do)
 - [주택도시보증공사_전국 신규 민간아파트 분양가격 동향](https://www.data.go.kr/data/15061057/fileData.do)
+- [공공와이파이 오픈API 및 DB다운로드](https://www.wififree.kr/pu/oa/L01.do)
 
 ### 전자책
 
