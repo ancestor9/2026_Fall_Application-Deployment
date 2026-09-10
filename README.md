@@ -1,7 +1,7 @@
 ## Pandas
 
 ### 설치
-
+[Python recap](https://github.com/ancestor9/Introduction-to-BigData-Analysis/tree/main/4%EC%A3%BC%EC%B0%A8)
 ```bash
 pip install pandas
 ```
