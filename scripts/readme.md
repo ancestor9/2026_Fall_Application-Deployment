@@ -1,7 +1,12 @@
 ### Pandas
 1. [Python for Data Analysis_github, Chapter 6/7](https://github.com/wesm/pydata-book/tree/3rd-edition)
-2. [Python for Data Analysis_pdf](https://www.lkhibra.ma/books/Python-for-Data-Analysis.pdf)
-3. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+   Python for Data Analysis [pdf](https://www.lkhibra.ma/books/Python-for-Data-Analysis.pdf)
+
+       - Data Loading, Storage, and File Formats
+       - Data Cleaning and Preparation
+   
+2. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
    
    Data Manipulation with Pandas
    
