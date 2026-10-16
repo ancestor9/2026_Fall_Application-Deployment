@@ -9,10 +9,6 @@ pip install pandas
 - [Getting started](https://pandas.pydata.org/docs/getting_started/index.html)
 - [Kaggle](https://www.kaggle.com/learn/pandas) : 중간 시험 + Bonus 조건(70점)
 
-### 전자책
-- [한 권으로 끝내는 판다스 노트](https://wikidocs.net/book/4639)
-
-
 ### Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등) & pandas
 | Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
