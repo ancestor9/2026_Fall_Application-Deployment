@@ -1,2 +1,3 @@
-### 공공데이터
-- [주택도시보증공사_전국 신규 민간아파트 분양가격 동향](https://www.data.go.kr/data/15061057/fileData.do)
+### 실습 데이터(Datascience Handbook)
+- [Combining Datasets: Merge and Join](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
+- [Pivot Tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
