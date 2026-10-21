@@ -2,7 +2,7 @@
 - [Combining Datasets: Merge and Join](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
 - [Pivot Tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
 
-#### 2.  Pandas with SQL 실습 과제: 테이블 조인 및 집계
+#### 2.  Pandas with SQL 실습 과제: 테이블 조인 및 집계(ecommerce_tables.zip 사용)
 
 #### 📝 과제 1. 가장 주문을 많이 한 상위 고객 Top 5 (2개 테이블)
 
