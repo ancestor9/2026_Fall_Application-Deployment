@@ -1,10 +1,10 @@
-### 1. Pandas Merge 실습(Datascience Handbook)
+#### 1. Pandas Merge 실습(Datascience Handbook)
 - [Combining Datasets: Merge and Join](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
 - [Pivot Tables](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
 
-### 2. Pandas with SQL 실습 과제: 테이블 조인 및 집계
+#### 2. Pandas with SQL 실습 과제: 테이블 조인 및 집계
 
-### 📝 과제 1. 가장 주문을 많이 한 상위 고객 Top 5 (2개 테이블)
+##### 📝 과제 1. 가장 주문을 많이 한 상위 고객 Top 5 (2개 테이블)
 
 - **사용 테이블:** `customers`, `orders`
 - **문제:** 고객별 총 주문 횟수를 집계하여, 가장 주문을 많이 한 상위 5명의 고객 정보를 구하시오.
@@ -17,7 +17,7 @@
 
 ---
 
-### 📝 과제 2. 매장(Store)별 총 주문 건수 분석 (2개 테이블)
+##### 📝 과제 2. 매장(Store)별 총 주문 건수 분석 (2개 테이블)
 
 - **사용 테이블:** `stores`, `orders`
 - **문제:** 각 매장(`stores`)에서 발생한 총 주문 건수를 집계하여, 주문 건수가 많은 순으로 정렬하시오.
@@ -30,7 +30,7 @@
 
 ---
 
-### 📝 과제 3. 가장 많이 판매된 상품 카테고리 Top 3 (2개 테이블)
+##### 📝 과제 3. 가장 많이 판매된 상품 카테고리 Top 3 (2개 테이블)
 
 - **사용 테이블:** `products`, `order_items`
 - **문제:** 상품 카테고리(`category`)별 총 판매 수량(`quantity`의 합계)을 계산하여, 가장 많이 판매된 상위 3개 카테고리를 구하시오.
@@ -43,7 +43,7 @@
 
 ---
 
-### 📝 과제 4. 주문별 총 결제 금액 계산 (3개 테이블)
+##### 📝 과제 4. 주문별 총 결제 금액 계산 (3개 테이블)
 
 - **사용 테이블:** `orders`, `order_items`, `products`
 - **문제:** 각 주문(`orders`) 건별로 구매한 상품의 총 결제 금액을 계산하시오. 총 결제 금액은 상품 단가(`price`)에 구매 수량(`quantity`)을 곱한 값의 합계로 계산한다.
@@ -57,7 +57,7 @@
 
 ---
 
-### 📝 과제 5. 성별(Gender)에 따른 총 상품 구매 수량 (3개 테이블)
+##### 📝 과제 5. 성별(Gender)에 따른 총 상품 구매 수량 (3개 테이블)
 
 - **사용 테이블:** `customers`, `orders`, `order_items`
 - **문제:** 고객의 성별(`gender`)에 따라 구매한 상품의 총수량(`quantity`의 합계)을 집계하시오.
