@@ -9,9 +9,8 @@ pip install pandas
 - [Getting started](https://pandas.pydata.org/docs/getting_started/index.html)
 - [Kaggle](https://www.kaggle.com/learn/pandas) : 중간 시험 + Bonus 조건(70점)
 
-### Understanding AI(1120)
-- Introduction to Machine learning
-- Gemini SDK
+### Understanding AI(1120일자 강의)
+- Introduction to Machine learning ---> Gemini SDK
 
 ### Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등) & pandas
 | Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
