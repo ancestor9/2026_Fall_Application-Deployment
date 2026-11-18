@@ -1,18 +1,16 @@
-## Pandas
+## 학습 내용
 
-### 설치
-[Python recap](https://github.com/ancestor9/Introduction-to-BigData-Analysis/tree/main/4%EC%A3%BC%EC%B0%A8)
-```bash
-pip install pandas
-```
-### Learn pandas
+### 1. Data Preprocessing with Pandas
 - [Getting started](https://pandas.pydata.org/docs/getting_started/index.html)
 - [Kaggle](https://www.kaggle.com/learn/pandas) : 중간 시험 + Bonus 조건(70점)
 
-### Understanding AI(1120일자 강의)
+### 2. Understanding AI
+- 1120일자 강의 : scikilearn + Keras
 - Introduction to Machine learning ---> Gemini SDK
 
-### Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등) & pandas
+### 3. Python 기본 문법(데이터형태, 변수, 제어문, 함수, Class, 모듈 등) & pandas
+- [Python recap](https://github.com/ancestor9/Introduction-to-BigData-Analysis/tree/main/4%EC%A3%BC%EC%B0%A8)
+
 | Task                         | Single Value                           | Multiple Values                                | Pandas                                         |
 |-----------------------------|----------------------------------------|------------------------------------------------|--------------------------------------------------------|
 | **Presentation (value, variable)** | `int`, `float`, `string`, `boolean`       | `list`, `tuple`, `dictionary`, `set`           | `ndarray`, `Series`, `DataFrame`                      |
